@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowinginthedark&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowinginthedark&layout=compact&theme=vue-dark&exclude_repo=glowinginthedark.github.io)](https://github.com/anuraghazra/github-readme-stats)
