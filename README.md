@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 At work, I build enterprise web apps using C#, PHP and JavaScript. 
 
 When I'm free, I love deep diving into math and the science of computing.
-Currently, I'm having a great time coding in C in a linux environment.  
-Check out **[glowinginthedark/network_programming_in_c](https://github.com/glowinginthedark/network_programming_in_c.git)** to see some of the things I've built.
+Currently, I'm having a great time coding in C in a linux environment. Check out **[glowinginthedark/network_programming_in_c](https://github.com/glowinginthedark/network_programming_in_c.git)** to see some of the things I've built.
 
 My other interests include:
 - Type theory
