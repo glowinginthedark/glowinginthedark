@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/beaming-face-with-smiling-eyes_1f601.png" width="32"/>
 
 ### Howdy! 👋
-### My name is Bilal and I'm hobbyist-turned software developer.  
+### My name is Bilal and I'm a hobbyist-turned software developer.  
 Every now and then, I pick a subject to dive deep into.  
 Currently, I'm having a great time coding in C in a linux environment.  
 Check out **[glowinginthedark/network_programming_in_c](https://github.com/glowinginthedark/network_programming_in_c.git)** to see some of the things I've built.
