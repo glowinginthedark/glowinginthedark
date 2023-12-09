@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowinginthedark&show_icons=true&theme=vue-dark)
 -->
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/beaming-face-with-smiling-eyes_1f601.png" width="32"/>
-
 ### Howdy! 👋
 ### My name is Bilal and I'm a hobbyist-turned software developer.  
 At work, I build enterprise web apps using C#, PHP and JavaScript. 
