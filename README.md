@@ -18,24 +18,11 @@ Here are some ideas to get you started:
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowinginthedark&show_icons=true&theme=vue-dark)
 -->
 
-### Howdy! 👋
+### Hello! 👋
 ### My name is Bilal and I'm a hobbyist-turned software developer.  
-At work, I build enterprise web apps using C#, PHP and JavaScript. 
+At work, I build enterprise web apps using C# and JavaScript.
 
-When I'm free, I love deep diving into math and the science of computing.
-Currently, I'm having a great time coding in C in a linux environment. Check out **[glowinginthedark/network_programming_in_c](https://github.com/glowinginthedark/network_programming_in_c.git)** to see some of the things I've built.
-
-My other interests include:
-- Type theory
-- Theory of computation
-- The science of algorithms and data structures
-- Number theory
-- Linear algebra
-- Longboarding
-
-    <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skateboard_1f6f9.png" width="100" />
-
-<br />
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/skateboard_1f6f9.png" width="100" />
 
 ### My Github stats:
 
